@@ -1,0 +1,6 @@
+SELECT [carsId]
+      ,[mark]
+      ,[hours_manufacturing]
+      ,[quantity]
+      ,[date_creation]
+  FROM [dbo].[cars]
